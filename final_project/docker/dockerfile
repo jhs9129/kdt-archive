@@ -1,0 +1,38 @@
+# FROM python:3.10.12
+
+# RUN apt-get update && apt-get install -y \
+#     libgl1-mesa-glx \
+#     && rm -rf /var/lib/apt/lists/*
+
+# RUN pip install numpy
+# RUN pip install opencv-python
+# RUN pip install mediapipe[opencv_gpu]
+# RUN pip install boto3
+# RUN pip install botocore
+# RUN pip install mysql-connector-python
+
+# WORKDIR /app
+# COPY FM_ex.py .
+
+# CMD ["python", "FM_ex.py"]
+
+
+FROM python:3.9.18
+
+COPY . /app
+
+WORKDIR /app
+
+
+RUN apt-get update && apt-get install -y \
+    libgl1-mesa-glx \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN pip install -r requirements3.txt
+RUN pip install mysql-connector-python
+RUN pip install --upgrade opencv-python
+RUN pip install --upgrade mediapipe
+
+
+
+CMD ["python", "FM_feature.py"]

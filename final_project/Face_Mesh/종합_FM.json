@@ -1,0 +1,1318 @@
+{
+  "data": [
+    {
+      "Total_Frame": 69280,
+      "Detection_Frame": 37314,
+      "Probability": 0.5385969976905312,
+      "No_Probability": 0.46140300230946885,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 1
+    },
+    {
+      "Total_Frame": 69971,
+      "Detection_Frame": 32692,
+      "Probability": 0.46722213488445213,
+      "No_Probability": 0.5327778651155479,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 2
+    },
+    {
+      "Total_Frame": 70061,
+      "Detection_Frame": 25761,
+      "Probability": 0.36769386677324045,
+      "No_Probability": 0.6323061332267595,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 3
+    },
+    {
+      "Total_Frame": 68874,
+      "Detection_Frame": 28597,
+      "Probability": 0.4152074803263931,
+      "No_Probability": 0.5847925196736069,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 4
+    },
+    {
+      "Total_Frame": 68958,
+      "Detection_Frame": 27718,
+      "Probability": 0.40195481307462516,
+      "No_Probability": 0.5980451869253749,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 5
+    },
+    {
+      "Total_Frame": 69657,
+      "Detection_Frame": 36204,
+      "Probability": 0.5197467591196865,
+      "No_Probability": 0.4802532408803135,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 6
+    },
+    {
+      "Total_Frame": 68917,
+      "Detection_Frame": 24730,
+      "Probability": 0.35883744214054586,
+      "No_Probability": 0.6411625578594542,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 7
+    },
+    {
+      "Total_Frame": 69152,
+      "Detection_Frame": 25714,
+      "Probability": 0.3718475242943082,
+      "No_Probability": 0.6281524757056918,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 8
+    },
+    {
+      "Total_Frame": 68583,
+      "Detection_Frame": 26267,
+      "Probability": 0.3829957861277576,
+      "No_Probability": 0.6170042138722425,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 9
+    },
+    {
+      "Total_Frame": 69514,
+      "Detection_Frame": 26345,
+      "Probability": 0.3789884052133383,
+      "No_Probability": 0.6210115947866617,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 10
+    },
+    {
+      "Total_Frame": 68771,
+      "Detection_Frame": 34803,
+      "Probability": 0.506070872897006,
+      "No_Probability": 0.49392912710299397,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 11
+    },
+    {
+      "Total_Frame": 68704,
+      "Detection_Frame": 25878,
+      "Probability": 0.3766592920353982,
+      "No_Probability": 0.6233407079646018,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 12
+    },
+    {
+      "Total_Frame": 69100,
+      "Detection_Frame": 26046,
+      "Probability": 0.37693198263386396,
+      "No_Probability": 0.623068017366136,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 13
+    },
+    {
+      "Total_Frame": 69183,
+      "Detection_Frame": 21858,
+      "Probability": 0.31594466848792335,
+      "No_Probability": 0.6840553315120766,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 14
+    },
+    {
+      "Total_Frame": 69790,
+      "Detection_Frame": 1148,
+      "Probability": 0.016449348044132398,
+      "No_Probability": 0.9835506519558675,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 15
+    },
+    {
+      "Total_Frame": 69642,
+      "Detection_Frame": 34685,
+      "Probability": 0.49804715545216965,
+      "No_Probability": 0.5019528445478303,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 16
+    },
+    {
+      "Total_Frame": 69719,
+      "Detection_Frame": 24372,
+      "Probability": 0.34957472138154594,
+      "No_Probability": 0.6504252786184541,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 17
+    },
+    {
+      "Total_Frame": 69903,
+      "Detection_Frame": 22971,
+      "Probability": 0.3286125059010343,
+      "No_Probability": 0.6713874940989657,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 18
+    },
+    {
+      "Total_Frame": 69259,
+      "Detection_Frame": 31213,
+      "Probability": 0.45067067095973085,
+      "No_Probability": 0.5493293290402692,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 19
+    },
+    {
+      "Total_Frame": 69625,
+      "Detection_Frame": 27444,
+      "Probability": 0.39416876122082584,
+      "No_Probability": 0.6058312387791742,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 20
+    },
+    {
+      "Total_Frame": 69789,
+      "Detection_Frame": 30961,
+      "Probability": 0.44363724942326155,
+      "No_Probability": 0.5563627505767385,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 21
+    },
+    {
+      "Total_Frame": 69181,
+      "Detection_Frame": 23461,
+      "Probability": 0.3391249042367124,
+      "No_Probability": 0.6608750957632876,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 22
+    },
+    {
+      "Total_Frame": 69514,
+      "Detection_Frame": 29942,
+      "Probability": 0.4307333774491469,
+      "No_Probability": 0.5692666225508531,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 23
+    },
+    {
+      "Total_Frame": 69278,
+      "Detection_Frame": 33138,
+      "Probability": 0.47833367014059297,
+      "No_Probability": 0.5216663298594071,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 24
+    },
+    {
+      "Total_Frame": 69140,
+      "Detection_Frame": 19056,
+      "Probability": 0.2756146948221001,
+      "No_Probability": 0.7243853051778999,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 25
+    },
+    {
+      "Total_Frame": 69320,
+      "Detection_Frame": 33573,
+      "Probability": 0.4843190998268898,
+      "No_Probability": 0.5156809001731102,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 26
+    },
+    {
+      "Total_Frame": 69193,
+      "Detection_Frame": 28602,
+      "Probability": 0.4133655138525573,
+      "No_Probability": 0.5866344861474426,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 27
+    },
+    {
+      "Total_Frame": 69069,
+      "Detection_Frame": 28315,
+      "Probability": 0.4099523664741056,
+      "No_Probability": 0.5900476335258944,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 28
+    },
+    {
+      "Total_Frame": 69508,
+      "Detection_Frame": 31974,
+      "Probability": 0.4600046037866145,
+      "No_Probability": 0.5399953962133854,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 29
+    },
+    {
+      "Total_Frame": 68565,
+      "Detection_Frame": 27222,
+      "Probability": 0.39702472106760006,
+      "No_Probability": 0.6029752789323999,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 30
+    },
+    {
+      "Total_Frame": 69433,
+      "Detection_Frame": 36492,
+      "Probability": 0.5255714141690551,
+      "No_Probability": 0.47442858583094494,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 31
+    },
+    {
+      "Total_Frame": 69014,
+      "Detection_Frame": 31522,
+      "Probability": 0.45674790622192596,
+      "No_Probability": 0.543252093778074,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 32
+    },
+    {
+      "Total_Frame": 69230,
+      "Detection_Frame": 29023,
+      "Probability": 0.41922576917521304,
+      "No_Probability": 0.580774230824787,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 33
+    },
+    {
+      "Total_Frame": 69298,
+      "Detection_Frame": 32617,
+      "Probability": 0.47067736442610175,
+      "No_Probability": 0.5293226355738982,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 34
+    },
+    {
+      "Total_Frame": 69628,
+      "Detection_Frame": 25515,
+      "Probability": 0.36644740621589017,
+      "No_Probability": 0.6335525937841098,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 35
+    },
+    {
+      "Total_Frame": 69801,
+      "Detection_Frame": 38370,
+      "Probability": 0.5497055916104354,
+      "No_Probability": 0.4502944083895646,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 36
+    },
+    {
+      "Total_Frame": 68194,
+      "Detection_Frame": 23016,
+      "Probability": 0.3375076986245124,
+      "No_Probability": 0.6624923013754875,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 37
+    },
+    {
+      "Total_Frame": 69732,
+      "Detection_Frame": 26558,
+      "Probability": 0.3808581426031091,
+      "No_Probability": 0.619141857396891,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 38
+    },
+    {
+      "Total_Frame": 68552,
+      "Detection_Frame": 40140,
+      "Probability": 0.5855409032559226,
+      "No_Probability": 0.41445909674407744,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 39
+    },
+    {
+      "Total_Frame": 70689,
+      "Detection_Frame": 25022,
+      "Probability": 0.35397303682326814,
+      "No_Probability": 0.6460269631767319,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 40
+    },
+    {
+      "Total_Frame": 70032,
+      "Detection_Frame": 32814,
+      "Probability": 0.46855723098012336,
+      "No_Probability": 0.5314427690198766,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 41
+    },
+    {
+      "Total_Frame": 69069,
+      "Detection_Frame": 26406,
+      "Probability": 0.38231333883507795,
+      "No_Probability": 0.6176866611649221,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 42
+    },
+    {
+      "Total_Frame": 68412,
+      "Detection_Frame": 30466,
+      "Probability": 0.44533122843945505,
+      "No_Probability": 0.554668771560545,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 43
+    },
+    {
+      "Total_Frame": 69584,
+      "Detection_Frame": 33595,
+      "Probability": 0.4827977696022074,
+      "No_Probability": 0.5172022303977926,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 44
+    },
+    {
+      "Total_Frame": 69581,
+      "Detection_Frame": 32029,
+      "Probability": 0.46031244161480867,
+      "No_Probability": 0.5396875583851913,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 45
+    },
+    {
+      "Total_Frame": 69272,
+      "Detection_Frame": 22057,
+      "Probability": 0.3184114793856104,
+      "No_Probability": 0.6815885206143897,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 46
+    },
+    {
+      "Total_Frame": 70020,
+      "Detection_Frame": 33328,
+      "Probability": 0.47597829191659524,
+      "No_Probability": 0.5240217080834048,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 47
+    },
+    {
+      "Total_Frame": 68737,
+      "Detection_Frame": 29309,
+      "Probability": 0.42639335437973724,
+      "No_Probability": 0.5736066456202628,
+      "Teacher": "손석민",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 48
+    },
+    {
+      "Total_Frame": 69360,
+      "Detection_Frame": 11447,
+      "Probability": 0.16503748558246828,
+      "No_Probability": 0.8349625144175317,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 1
+    },
+    {
+      "Total_Frame": 69759,
+      "Detection_Frame": 7329,
+      "Probability": 0.10506171246720854,
+      "No_Probability": 0.8949382875327915,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 2
+    },
+    {
+      "Total_Frame": 70400,
+      "Detection_Frame": 12614,
+      "Probability": 0.17917613636363636,
+      "No_Probability": 0.8208238636363636,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 3
+    },
+    {
+      "Total_Frame": 69022,
+      "Detection_Frame": 14358,
+      "Probability": 0.20802063110312655,
+      "No_Probability": 0.7919793688968735,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 4
+    },
+    {
+      "Total_Frame": 70610,
+      "Detection_Frame": 12335,
+      "Probability": 0.1746919699759241,
+      "No_Probability": 0.8253080300240759,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 5
+    },
+    {
+      "Total_Frame": 69022,
+      "Detection_Frame": 10044,
+      "Probability": 0.14551882008634928,
+      "No_Probability": 0.8544811799136507,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 6
+    },
+    {
+      "Total_Frame": 69112,
+      "Detection_Frame": 10135,
+      "Probability": 0.14664602384535247,
+      "No_Probability": 0.8533539761546476,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 7
+    },
+    {
+      "Total_Frame": 70190,
+      "Detection_Frame": 16255,
+      "Probability": 0.23158569596808662,
+      "No_Probability": 0.7684143040319134,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 8
+    },
+    {
+      "Total_Frame": 69532,
+      "Detection_Frame": 20111,
+      "Probability": 0.2892337341080366,
+      "No_Probability": 0.7107662658919633,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 9
+    },
+    {
+      "Total_Frame": 70279,
+      "Detection_Frame": 14391,
+      "Probability": 0.2047695613198822,
+      "No_Probability": 0.7952304386801178,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 10
+    },
+    {
+      "Total_Frame": 71090,
+      "Detection_Frame": 12152,
+      "Probability": 0.17093824729216486,
+      "No_Probability": 0.8290617527078351,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 11
+    },
+    {
+      "Total_Frame": 70072,
+      "Detection_Frame": 10202,
+      "Probability": 0.14559310423564334,
+      "No_Probability": 0.8544068957643567,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 12
+    },
+    {
+      "Total_Frame": 69052,
+      "Detection_Frame": 15672,
+      "Probability": 0.22695939292127673,
+      "No_Probability": 0.7730406070787232,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 13
+    },
+    {
+      "Total_Frame": 69442,
+      "Detection_Frame": 12654,
+      "Probability": 0.18222401428530285,
+      "No_Probability": 0.8177759857146971,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 14
+    },
+    {
+      "Total_Frame": 69652,
+      "Detection_Frame": 13910,
+      "Probability": 0.19970711537357147,
+      "No_Probability": 0.8002928846264286,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 15
+    },
+    {
+      "Total_Frame": 68452,
+      "Detection_Frame": 12160,
+      "Probability": 0.1776427277508327,
+      "No_Probability": 0.8223572722491673,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 16
+    },
+    {
+      "Total_Frame": 69082,
+      "Detection_Frame": 13081,
+      "Probability": 0.18935467994557192,
+      "No_Probability": 0.8106453200544281,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 17
+    },
+    {
+      "Total_Frame": 69832,
+      "Detection_Frame": 15268,
+      "Probability": 0.21863901936075153,
+      "No_Probability": 0.7813609806392485,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 18
+    },
+    {
+      "Total_Frame": 71000,
+      "Detection_Frame": 13976,
+      "Probability": 0.1968450704225352,
+      "No_Probability": 0.8031549295774648,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 19
+    },
+    {
+      "Total_Frame": 68902,
+      "Detection_Frame": 13911,
+      "Probability": 0.20189544570549475,
+      "No_Probability": 0.7981045542945052,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 20
+    },
+    {
+      "Total_Frame": 68991,
+      "Detection_Frame": 11236,
+      "Probability": 0.16286182255656534,
+      "No_Probability": 0.8371381774434347,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 21
+    },
+    {
+      "Total_Frame": 69682,
+      "Detection_Frame": 13017,
+      "Probability": 0.1868057748055452,
+      "No_Probability": 0.8131942251944548,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 22
+    },
+    {
+      "Total_Frame": 70189,
+      "Detection_Frame": 13870,
+      "Probability": 0.19760931200045592,
+      "No_Probability": 0.802390687999544,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 23
+    },
+    {
+      "Total_Frame": 69201,
+      "Detection_Frame": 15055,
+      "Probability": 0.21755465961474546,
+      "No_Probability": 0.7824453403852545,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 24
+    },
+    {
+      "Total_Frame": 70610,
+      "Detection_Frame": 14671,
+      "Probability": 0.2077751026766747,
+      "No_Probability": 0.7922248973233252,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 25
+    },
+    {
+      "Total_Frame": 69622,
+      "Detection_Frame": 15140,
+      "Probability": 0.21745999827640689,
+      "No_Probability": 0.7825400017235931,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 26
+    },
+    {
+      "Total_Frame": 68872,
+      "Detection_Frame": 15237,
+      "Probability": 0.22123649668951098,
+      "No_Probability": 0.778763503310489,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 27
+    },
+    {
+      "Total_Frame": 69651,
+      "Detection_Frame": 14698,
+      "Probability": 0.21102353160758638,
+      "No_Probability": 0.7889764683924136,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 28
+    },
+    {
+      "Total_Frame": 68958,
+      "Detection_Frame": 14948,
+      "Probability": 0.21676962788943996,
+      "No_Probability": 0.78323037211056,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 29
+    },
+    {
+      "Total_Frame": 69861,
+      "Detection_Frame": 28227,
+      "Probability": 0.4040451754197621,
+      "No_Probability": 0.595954824580238,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 30
+    },
+    {
+      "Total_Frame": 69232,
+      "Detection_Frame": 18022,
+      "Probability": 0.2603131499884446,
+      "No_Probability": 0.7396868500115554,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 31
+    },
+    {
+      "Total_Frame": 69742,
+      "Detection_Frame": 14068,
+      "Probability": 0.20171489203062717,
+      "No_Probability": 0.7982851079693728,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 32
+    },
+    {
+      "Total_Frame": 69954,
+      "Detection_Frame": 14660,
+      "Probability": 0.20956628641678818,
+      "No_Probability": 0.7904337135832118,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 33
+    },
+    {
+      "Total_Frame": 68784,
+      "Detection_Frame": 17816,
+      "Probability": 0.25901372412188883,
+      "No_Probability": 0.7409862758781112,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 34
+    },
+    {
+      "Total_Frame": 69414,
+      "Detection_Frame": 15274,
+      "Probability": 0.22004206644192814,
+      "No_Probability": 0.7799579335580719,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 35
+    },
+    {
+      "Total_Frame": 70162,
+      "Detection_Frame": 18878,
+      "Probability": 0.26906302556939654,
+      "No_Probability": 0.7309369744306035,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 36
+    },
+    {
+      "Total_Frame": 69804,
+      "Detection_Frame": 14661,
+      "Probability": 0.21003094378545642,
+      "No_Probability": 0.7899690562145436,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 37
+    },
+    {
+      "Total_Frame": 69624,
+      "Detection_Frame": 16627,
+      "Probability": 0.2388113294266345,
+      "No_Probability": 0.7611886705733655,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 38
+    },
+    {
+      "Total_Frame": 70942,
+      "Detection_Frame": 9921,
+      "Probability": 0.13984663527952412,
+      "No_Probability": 0.8601533647204759,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 39
+    },
+    {
+      "Total_Frame": 69024,
+      "Detection_Frame": 17295,
+      "Probability": 0.25056502086230875,
+      "No_Probability": 0.7494349791376913,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 40
+    },
+    {
+      "Total_Frame": 68544,
+      "Detection_Frame": 819,
+      "Probability": 0.011948529411764705,
+      "No_Probability": 0.9880514705882353,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 41
+    },
+    {
+      "Total_Frame": 70132,
+      "Detection_Frame": 16036,
+      "Probability": 0.22865453715850112,
+      "No_Probability": 0.7713454628414989,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 42
+    },
+    {
+      "Total_Frame": 69504,
+      "Detection_Frame": 18835,
+      "Probability": 0.2709915976058932,
+      "No_Probability": 0.7290084023941068,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 43
+    },
+    {
+      "Total_Frame": 68514,
+      "Detection_Frame": 15493,
+      "Probability": 0.2261289663426453,
+      "No_Probability": 0.7738710336573547,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 44
+    },
+    {
+      "Total_Frame": 69924,
+      "Detection_Frame": 15984,
+      "Probability": 0.22859104170241978,
+      "No_Probability": 0.7714089582975803,
+      "Teacher": "변창현",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 45
+    },
+    {
+      "Total_Frame": 74028,
+      "Detection_Frame": 16380,
+      "Probability": 0.22126762846490516,
+      "No_Probability": 0.7787323715350949,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 1
+    },
+    {
+      "Total_Frame": 74028,
+      "Detection_Frame": 9216,
+      "Probability": 0.12449343491651807,
+      "No_Probability": 0.8755065650834819,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 2
+    },
+    {
+      "Total_Frame": 73310,
+      "Detection_Frame": 10704,
+      "Probability": 0.14601009412085664,
+      "No_Probability": 0.8539899058791434,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 3
+    },
+    {
+      "Total_Frame": 69232,
+      "Detection_Frame": 9692,
+      "Probability": 0.13999306678992374,
+      "No_Probability": 0.8600069332100763,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 4
+    },
+    {
+      "Total_Frame": 72500,
+      "Detection_Frame": 14122,
+      "Probability": 0.1947862068965517,
+      "No_Probability": 0.8052137931034483,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 5
+    },
+    {
+      "Total_Frame": 68392,
+      "Detection_Frame": 13078,
+      "Probability": 0.1912211954614575,
+      "No_Probability": 0.8087788045385425,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 6
+    },
+    {
+      "Total_Frame": 71600,
+      "Detection_Frame": 14847,
+      "Probability": 0.20736033519553074,
+      "No_Probability": 0.7926396648044692,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 7
+    },
+    {
+      "Total_Frame": 72710,
+      "Detection_Frame": 13425,
+      "Probability": 0.1846376014303397,
+      "No_Probability": 0.8153623985696603,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 8
+    },
+    {
+      "Total_Frame": 70460,
+      "Detection_Frame": 9584,
+      "Probability": 0.13602043712744818,
+      "No_Probability": 0.8639795628725518,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 9
+    },
+    {
+      "Total_Frame": 69099,
+      "Detection_Frame": 10720,
+      "Probability": 0.1551397270582787,
+      "No_Probability": 0.8448602729417213,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 10
+    },
+    {
+      "Total_Frame": 68578,
+      "Detection_Frame": 9857,
+      "Probability": 0.14373414214471114,
+      "No_Probability": 0.8562658578552889,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 11
+    },
+    {
+      "Total_Frame": 69577,
+      "Detection_Frame": 16852,
+      "Probability": 0.2422064762780804,
+      "No_Probability": 0.7577935237219195,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 12
+    },
+    {
+      "Total_Frame": 70743,
+      "Detection_Frame": 11083,
+      "Probability": 0.1566656771694726,
+      "No_Probability": 0.8433343228305274,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 13
+    },
+    {
+      "Total_Frame": 71389,
+      "Detection_Frame": 14799,
+      "Probability": 0.20730084466794604,
+      "No_Probability": 0.7926991553320539,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 14
+    },
+    {
+      "Total_Frame": 70356,
+      "Detection_Frame": 15873,
+      "Probability": 0.22560975609756098,
+      "No_Probability": 0.774390243902439,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 15
+    },
+    {
+      "Total_Frame": 69535,
+      "Detection_Frame": 15401,
+      "Probability": 0.22148558280002875,
+      "No_Probability": 0.7785144171999713,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 16
+    },
+    {
+      "Total_Frame": 69881,
+      "Detection_Frame": 19296,
+      "Probability": 0.27612655800575264,
+      "No_Probability": 0.7238734419942474,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 17
+    },
+    {
+      "Total_Frame": 70824,
+      "Detection_Frame": 17911,
+      "Probability": 0.2528944990398735,
+      "No_Probability": 0.7471055009601265,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 18
+    },
+    {
+      "Total_Frame": 71050,
+      "Detection_Frame": 15689,
+      "Probability": 0.22081632653061226,
+      "No_Probability": 0.7791836734693878,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 19
+    },
+    {
+      "Total_Frame": 70627,
+      "Detection_Frame": 15999,
+      "Probability": 0.22652809831933962,
+      "No_Probability": 0.7734719016806604,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 20
+    },
+    {
+      "Total_Frame": 71686,
+      "Detection_Frame": 11009,
+      "Probability": 0.15357252462126497,
+      "No_Probability": 0.8464274753787351,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 21
+    },
+    {
+      "Total_Frame": 72518,
+      "Detection_Frame": 10791,
+      "Probability": 0.14880443476102484,
+      "No_Probability": 0.8511955652389751,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 22
+    },
+    {
+      "Total_Frame": 70006,
+      "Detection_Frame": 10550,
+      "Probability": 0.1507013684541325,
+      "No_Probability": 0.8492986315458675,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 23
+    },
+    {
+      "Total_Frame": 66176,
+      "Detection_Frame": 17774,
+      "Probability": 0.2685867988394584,
+      "No_Probability": 0.7314132011605416,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 24
+    },
+    {
+      "Total_Frame": 70068,
+      "Detection_Frame": 13204,
+      "Probability": 0.18844551007592625,
+      "No_Probability": 0.8115544899240738,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 25
+    },
+    {
+      "Total_Frame": 70185,
+      "Detection_Frame": 21544,
+      "Probability": 0.3069601766759279,
+      "No_Probability": 0.6930398233240721,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 26
+    },
+    {
+      "Total_Frame": 71302,
+      "Detection_Frame": 15020,
+      "Probability": 0.21065327760792124,
+      "No_Probability": 0.7893467223920787,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 27
+    },
+    {
+      "Total_Frame": 70197,
+      "Detection_Frame": 13281,
+      "Probability": 0.18919611949228599,
+      "No_Probability": 0.810803880507714,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 28
+    },
+    {
+      "Total_Frame": 71633,
+      "Detection_Frame": 9545,
+      "Probability": 0.13324864238549272,
+      "No_Probability": 0.8667513576145073,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 29
+    },
+    {
+      "Total_Frame": 70120,
+      "Detection_Frame": 16118,
+      "Probability": 0.22986309184255563,
+      "No_Probability": 0.7701369081574444,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 30
+    },
+    {
+      "Total_Frame": 72379,
+      "Detection_Frame": 14353,
+      "Probability": 0.19830337528841238,
+      "No_Probability": 0.8016966247115876,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 31
+    },
+    {
+      "Total_Frame": 73404,
+      "Detection_Frame": 14213,
+      "Probability": 0.19362705029698654,
+      "No_Probability": 0.8063729497030134,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 32
+    },
+    {
+      "Total_Frame": 70522,
+      "Detection_Frame": 18146,
+      "Probability": 0.2573097756728397,
+      "No_Probability": 0.7426902243271603,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 33
+    },
+    {
+      "Total_Frame": 71311,
+      "Detection_Frame": 11752,
+      "Probability": 0.16479925958127079,
+      "No_Probability": 0.8352007404187292,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 34
+    },
+    {
+      "Total_Frame": 71977,
+      "Detection_Frame": 15055,
+      "Probability": 0.20916403851230253,
+      "No_Probability": 0.7908359614876974,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 35
+    },
+    {
+      "Total_Frame": 70207,
+      "Detection_Frame": 25088,
+      "Probability": 0.3573432848576353,
+      "No_Probability": 0.6426567151423648,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 36
+    },
+    {
+      "Total_Frame": 68910,
+      "Detection_Frame": 19922,
+      "Probability": 0.28910172689014657,
+      "No_Probability": 0.7108982731098534,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 37
+    },
+    {
+      "Total_Frame": 70601,
+      "Detection_Frame": 18859,
+      "Probability": 0.2671208623107321,
+      "No_Probability": 0.7328791376892678,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 38
+    },
+    {
+      "Total_Frame": 71525,
+      "Detection_Frame": 16118,
+      "Probability": 0.22534778049632995,
+      "No_Probability": 0.77465221950367,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 39
+    },
+    {
+      "Total_Frame": 67734,
+      "Detection_Frame": 16460,
+      "Probability": 0.24300941919862992,
+      "No_Probability": 0.75699058080137,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 40
+    },
+    {
+      "Total_Frame": 69174,
+      "Detection_Frame": 16966,
+      "Probability": 0.24526556220545292,
+      "No_Probability": 0.7547344377945471,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 41
+    },
+    {
+      "Total_Frame": 71051,
+      "Detection_Frame": 15092,
+      "Probability": 0.2124108035073398,
+      "No_Probability": 0.7875891964926602,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 42
+    },
+    {
+      "Total_Frame": 70609,
+      "Detection_Frame": 22654,
+      "Probability": 0.32083728703139824,
+      "No_Probability": 0.6791627129686018,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 43
+    },
+    {
+      "Total_Frame": 68493,
+      "Detection_Frame": 21078,
+      "Probability": 0.30773947702684945,
+      "No_Probability": 0.6922605229731505,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 44
+    },
+    {
+      "Total_Frame": 70588,
+      "Detection_Frame": 15128,
+      "Probability": 0.21431404771349238,
+      "No_Probability": 0.7856859522865076,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 45
+    },
+    {
+      "Total_Frame": 70314,
+      "Detection_Frame": 11492,
+      "Probability": 0.16343829109423444,
+      "No_Probability": 0.8365617089057655,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 46
+    },
+    {
+      "Total_Frame": 68608,
+      "Detection_Frame": 16042,
+      "Probability": 0.23382112873134328,
+      "No_Probability": 0.7661788712686567,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 47
+    },
+    {
+      "Total_Frame": 69975,
+      "Detection_Frame": 15359,
+      "Probability": 0.21949267595569846,
+      "No_Probability": 0.7805073240443016,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 48
+    },
+    {
+      "Total_Frame": 68809,
+      "Detection_Frame": 17526,
+      "Probability": 0.2547050531180514,
+      "No_Probability": 0.7452949468819485,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 49
+    },
+    {
+      "Total_Frame": 71832,
+      "Detection_Frame": 14211,
+      "Probability": 0.19783661877714667,
+      "No_Probability": 0.8021633812228534,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 50
+    },
+    {
+      "Total_Frame": 71137,
+      "Detection_Frame": 20022,
+      "Probability": 0.2814569070947608,
+      "No_Probability": 0.7185430929052392,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 51
+    },
+    {
+      "Total_Frame": 70896,
+      "Detection_Frame": 14703,
+      "Probability": 0.20738828706838186,
+      "No_Probability": 0.7926117129316181,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 52
+    },
+    {
+      "Total_Frame": 70743,
+      "Detection_Frame": 10166,
+      "Probability": 0.143703263927173,
+      "No_Probability": 0.856296736072827,
+      "Teacher": "서채은",
+      "Book_name": "EBS 중학 뉴런 수학2 (상)",
+      "lecture_num": 53
+    }
+  ]
+}

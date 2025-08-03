@@ -1,0 +1,322 @@
+{
+    "data": [
+        {
+            "Total_Frame": 74028,
+            "Detection_Frame": 16380,
+            "Probability": 0.22126762846490516,
+            "No_Probability": 0.7787323715350949
+        },
+        {
+            "Total_Frame": 74028,
+            "Detection_Frame": 9216,
+            "Probability": 0.12449343491651807,
+            "No_Probability": 0.8755065650834819
+        },
+        {
+            "Total_Frame": 73310,
+            "Detection_Frame": 10704,
+            "Probability": 0.14601009412085664,
+            "No_Probability": 0.8539899058791434
+        },
+        {
+            "Total_Frame": 69232,
+            "Detection_Frame": 9692,
+            "Probability": 0.13999306678992374,
+            "No_Probability": 0.8600069332100763
+        },
+        {
+            "Total_Frame": 72500,
+            "Detection_Frame": 14122,
+            "Probability": 0.1947862068965517,
+            "No_Probability": 0.8052137931034483
+        },
+        {
+            "Total_Frame": 68392,
+            "Detection_Frame": 13078,
+            "Probability": 0.1912211954614575,
+            "No_Probability": 0.8087788045385425
+        },
+        {
+            "Total_Frame": 71600,
+            "Detection_Frame": 14847,
+            "Probability": 0.20736033519553074,
+            "No_Probability": 0.7926396648044692
+        },
+        {
+            "Total_Frame": 72710,
+            "Detection_Frame": 13425,
+            "Probability": 0.1846376014303397,
+            "No_Probability": 0.8153623985696603
+        },
+        {
+            "Total_Frame": 70460,
+            "Detection_Frame": 9584,
+            "Probability": 0.13602043712744818,
+            "No_Probability": 0.8639795628725518
+        },
+        {
+            "Total_Frame": 69099,
+            "Detection_Frame": 10720,
+            "Probability": 0.1551397270582787,
+            "No_Probability": 0.8448602729417213
+        },
+        {
+            "Total_Frame": 68578,
+            "Detection_Frame": 9857,
+            "Probability": 0.14373414214471114,
+            "No_Probability": 0.8562658578552889
+        },
+        {
+            "Total_Frame": 69577,
+            "Detection_Frame": 16852,
+            "Probability": 0.2422064762780804,
+            "No_Probability": 0.7577935237219195
+        },
+        {
+            "Total_Frame": 70743,
+            "Detection_Frame": 11083,
+            "Probability": 0.1566656771694726,
+            "No_Probability": 0.8433343228305274
+        },
+        {
+            "Total_Frame": 71389,
+            "Detection_Frame": 14799,
+            "Probability": 0.20730084466794604,
+            "No_Probability": 0.7926991553320539
+        },
+        {
+            "Total_Frame": 70356,
+            "Detection_Frame": 15873,
+            "Probability": 0.22560975609756098,
+            "No_Probability": 0.774390243902439
+        },
+        {
+            "Total_Frame": 69535,
+            "Detection_Frame": 15401,
+            "Probability": 0.22148558280002875,
+            "No_Probability": 0.7785144171999713
+        },
+        {
+            "Total_Frame": 69881,
+            "Detection_Frame": 19296,
+            "Probability": 0.27612655800575264,
+            "No_Probability": 0.7238734419942474
+        },
+        {
+            "Total_Frame": 70824,
+            "Detection_Frame": 17911,
+            "Probability": 0.2528944990398735,
+            "No_Probability": 0.7471055009601265
+        },
+        {
+            "Total_Frame": 71050,
+            "Detection_Frame": 15689,
+            "Probability": 0.22081632653061226,
+            "No_Probability": 0.7791836734693878
+        },
+        {
+            "Total_Frame": 70627,
+            "Detection_Frame": 15999,
+            "Probability": 0.22652809831933962,
+            "No_Probability": 0.7734719016806604
+        },
+        {
+            "Total_Frame": 71686,
+            "Detection_Frame": 11009,
+            "Probability": 0.15357252462126497,
+            "No_Probability": 0.8464274753787351
+        },
+        {
+            "Total_Frame": 72518,
+            "Detection_Frame": 10791,
+            "Probability": 0.14880443476102484,
+            "No_Probability": 0.8511955652389751
+        },
+        {
+            "Total_Frame": 70006,
+            "Detection_Frame": 10550,
+            "Probability": 0.1507013684541325,
+            "No_Probability": 0.8492986315458675
+        },
+        {
+            "Total_Frame": 66176,
+            "Detection_Frame": 17774,
+            "Probability": 0.2685867988394584,
+            "No_Probability": 0.7314132011605416
+        },
+        {
+            "Total_Frame": 70068,
+            "Detection_Frame": 13204,
+            "Probability": 0.18844551007592625,
+            "No_Probability": 0.8115544899240738
+        },
+        {
+            "Total_Frame": 70185,
+            "Detection_Frame": 21544,
+            "Probability": 0.3069601766759279,
+            "No_Probability": 0.6930398233240721
+        },
+        {
+            "Total_Frame": 71302,
+            "Detection_Frame": 15020,
+            "Probability": 0.21065327760792124,
+            "No_Probability": 0.7893467223920787
+        },
+        {
+            "Total_Frame": 70197,
+            "Detection_Frame": 13281,
+            "Probability": 0.18919611949228599,
+            "No_Probability": 0.810803880507714
+        },
+        {
+            "Total_Frame": 71633,
+            "Detection_Frame": 9545,
+            "Probability": 0.13324864238549272,
+            "No_Probability": 0.8667513576145073
+        },
+        {
+            "Total_Frame": 70120,
+            "Detection_Frame": 16118,
+            "Probability": 0.22986309184255563,
+            "No_Probability": 0.7701369081574444
+        },
+        {
+            "Total_Frame": 72379,
+            "Detection_Frame": 14353,
+            "Probability": 0.19830337528841238,
+            "No_Probability": 0.8016966247115876
+        },
+        {
+            "Total_Frame": 73404,
+            "Detection_Frame": 14213,
+            "Probability": 0.19362705029698654,
+            "No_Probability": 0.8063729497030134
+        },
+        {
+            "Total_Frame": 70522,
+            "Detection_Frame": 18146,
+            "Probability": 0.2573097756728397,
+            "No_Probability": 0.7426902243271603
+        },
+        {
+            "Total_Frame": 71311,
+            "Detection_Frame": 11752,
+            "Probability": 0.16479925958127079,
+            "No_Probability": 0.8352007404187292
+        },
+        {
+            "Total_Frame": 71977,
+            "Detection_Frame": 15055,
+            "Probability": 0.20916403851230253,
+            "No_Probability": 0.7908359614876974
+        },
+        {
+            "Total_Frame": 70207,
+            "Detection_Frame": 25088,
+            "Probability": 0.3573432848576353,
+            "No_Probability": 0.6426567151423648
+        },
+        {
+            "Total_Frame": 68910,
+            "Detection_Frame": 19922,
+            "Probability": 0.28910172689014657,
+            "No_Probability": 0.7108982731098534
+        },
+        {
+            "Total_Frame": 70601,
+            "Detection_Frame": 18859,
+            "Probability": 0.2671208623107321,
+            "No_Probability": 0.7328791376892678
+        },
+        {
+            "Total_Frame": 71525,
+            "Detection_Frame": 16118,
+            "Probability": 0.22534778049632995,
+            "No_Probability": 0.77465221950367
+        },
+        {
+            "Total_Frame": 67734,
+            "Detection_Frame": 16460,
+            "Probability": 0.24300941919862992,
+            "No_Probability": 0.75699058080137
+        },
+        {
+            "Total_Frame": 69174,
+            "Detection_Frame": 16966,
+            "Probability": 0.24526556220545292,
+            "No_Probability": 0.7547344377945471
+        },
+        {
+            "Total_Frame": 71051,
+            "Detection_Frame": 15092,
+            "Probability": 0.2124108035073398,
+            "No_Probability": 0.7875891964926602
+        },
+        {
+            "Total_Frame": 70609,
+            "Detection_Frame": 22654,
+            "Probability": 0.32083728703139824,
+            "No_Probability": 0.6791627129686018
+        },
+        {
+            "Total_Frame": 68493,
+            "Detection_Frame": 21078,
+            "Probability": 0.30773947702684945,
+            "No_Probability": 0.6922605229731505
+        },
+        {
+            "Total_Frame": 70588,
+            "Detection_Frame": 15128,
+            "Probability": 0.21431404771349238,
+            "No_Probability": 0.7856859522865076
+        },
+        {
+            "Total_Frame": 70314,
+            "Detection_Frame": 11492,
+            "Probability": 0.16343829109423444,
+            "No_Probability": 0.8365617089057655
+        },
+        {
+            "Total_Frame": 68608,
+            "Detection_Frame": 16042,
+            "Probability": 0.23382112873134328,
+            "No_Probability": 0.7661788712686567
+        },
+        {
+            "Total_Frame": 69975,
+            "Detection_Frame": 15359,
+            "Probability": 0.21949267595569846,
+            "No_Probability": 0.7805073240443016
+        },
+        {
+            "Total_Frame": 68809,
+            "Detection_Frame": 17526,
+            "Probability": 0.2547050531180514,
+            "No_Probability": 0.7452949468819485
+        },
+        {
+            "Total_Frame": 71832,
+            "Detection_Frame": 14211,
+            "Probability": 0.19783661877714667,
+            "No_Probability": 0.8021633812228534
+        },
+        {
+            "Total_Frame": 71137,
+            "Detection_Frame": 20022,
+            "Probability": 0.2814569070947608,
+            "No_Probability": 0.7185430929052392
+        },
+        {
+            "Total_Frame": 70896,
+            "Detection_Frame": 14703,
+            "Probability": 0.20738828706838186,
+            "No_Probability": 0.7926117129316181
+        },
+        {
+            "Total_Frame": 70743,
+            "Detection_Frame": 10166,
+            "Probability": 0.143703263927173,
+            "No_Probability": 0.856296736072827
+        }
+    ]
+}

@@ -1,0 +1,481 @@
+{
+    "data": [
+        {
+                "Angry": 35,
+                "Disgust": 10,
+                "Fear": 144,
+                "Happy": 1722,
+                "Sad": 69,
+                "Surprise": 672,
+                "Neutral": 450
+        },
+        {
+                "Angry": 38,
+                "Disgust": 4,
+                "Fear": 80,
+                "Happy": 1150,
+                "Sad": 55,
+                "Surprise": 289,
+                "Neutral": 236
+        },
+        {
+                "Angry": 52,
+                "Disgust": 4,
+                "Fear": 53,
+                "Happy": 1197,
+                "Sad": 90,
+                "Surprise": 263,
+                "Neutral": 458
+        },
+        {
+                "Angry": 41,
+                "Disgust": 2,
+                "Fear": 48,
+                "Happy": 1217,
+                "Sad": 43,
+                "Surprise": 244,
+                "Neutral": 300
+        },
+        {
+                "Angry": 60,
+                "Disgust": 2,
+                "Fear": 95,
+                "Happy": 1577,
+                "Sad": 82,
+                "Surprise": 205,
+                "Neutral": 638
+        },
+        {
+                "Angry": 16,
+                "Disgust": 0,
+                "Fear": 41,
+                "Happy": 1472,
+                "Sad": 90,
+                "Surprise": 128,
+                "Neutral": 650
+        },
+        {
+                "Angry": 63,
+                "Disgust": 11,
+                "Fear": 135,
+                "Happy": 1443,
+                "Sad": 73,
+                "Surprise": 535,
+                "Neutral": 541
+        },
+        {
+                "Angry": 70,
+                "Disgust": 16,
+                "Fear": 145,
+                "Happy": 1283,
+                "Sad": 73,
+                "Surprise": 471,
+                "Neutral": 427
+        },
+        {
+                "Angry": 24,
+                "Disgust": 10,
+                "Fear": 45,
+                "Happy": 1090,
+                "Sad": 38,
+                "Surprise": 377,
+                "Neutral": 232
+        },
+        {
+                "Angry": 38,
+                "Disgust": 6,
+                "Fear": 61,
+                "Happy": 1091,
+                "Sad": 58,
+                "Surprise": 395,
+                "Neutral": 304
+        },
+        {
+                "Angry": 17,
+                "Disgust": 11,
+                "Fear": 65,
+                "Happy": 1102,
+                "Sad": 29,
+                "Surprise": 309,
+                "Neutral": 331
+        },
+        {
+                "Angry": 68,
+                "Disgust": 19,
+                "Fear": 212,
+                "Happy": 1563,
+                "Sad": 141,
+                "Surprise": 654,
+                "Neutral": 521
+        },
+        {
+                "Angry": 14,
+                "Disgust": 12,
+                "Fear": 74,
+                "Happy": 1057,
+                "Sad": 41,
+                "Surprise": 507,
+                "Neutral": 375
+        },
+        {
+                "Angry": 19,
+                "Disgust": 8,
+                "Fear": 88,
+                "Happy": 1454,
+                "Sad": 64,
+                "Surprise": 700,
+                "Neutral": 488
+        },
+        {
+                "Angry": 8,
+                "Disgust": 18,
+                "Fear": 111,
+                "Happy": 1392,
+                "Sad": 144,
+                "Surprise": 310,
+                "Neutral": 1002
+        },
+        {
+                "Angry": 24,
+                "Disgust": 39,
+                "Fear": 125,
+                "Happy": 1146,
+                "Sad": 186,
+                "Surprise": 376,
+                "Neutral": 1037
+        },
+        {
+                "Angry": 39,
+                "Disgust": 16,
+                "Fear": 117,
+                "Happy": 2070,
+                "Sad": 176,
+                "Surprise": 304,
+                "Neutral": 1008
+        },
+        {
+                "Angry": 25,
+                "Disgust": 2,
+                "Fear": 66,
+                "Happy": 1711,
+                "Sad": 100,
+                "Surprise": 247,
+                "Neutral": 1151
+        },
+        {
+                "Angry": 13,
+                "Disgust": 3,
+                "Fear": 73,
+                "Happy": 1508,
+                "Sad": 104,
+                "Surprise": 129,
+                "Neutral": 1111
+        },
+        {
+                "Angry": 19,
+                "Disgust": 3,
+                "Fear": 64,
+                "Happy": 1636,
+                "Sad": 111,
+                "Surprise": 201,
+                "Neutral": 851
+        },
+        {
+                "Angry": 32,
+                "Disgust": 14,
+                "Fear": 57,
+                "Happy": 961,
+                "Sad": 84,
+                "Surprise": 426,
+                "Neutral": 675
+        },
+        {
+                "Angry": 15,
+                "Disgust": 3,
+                "Fear": 57,
+                "Happy": 992,
+                "Sad": 74,
+                "Surprise": 266,
+                "Neutral": 677
+        },
+        {
+                "Angry": 7,
+                "Disgust": 11,
+                "Fear": 57,
+                "Happy": 920,
+                "Sad": 63,
+                "Surprise": 318,
+                "Neutral": 746
+        },
+        {
+                "Angry": 6,
+                "Disgust": 0,
+                "Fear": 84,
+                "Happy": 1543,
+                "Sad": 148,
+                "Surprise": 132,
+                "Neutral": 1363
+        },
+        {
+                "Angry": 21,
+                "Disgust": 1,
+                "Fear": 66,
+                "Happy": 1018,
+                "Sad": 88,
+                "Surprise": 93,
+                "Neutral": 1055
+        },
+        {
+                "Angry": 4,
+                "Disgust": 1,
+                "Fear": 69,
+                "Happy": 1604,
+                "Sad": 210,
+                "Surprise": 95,
+                "Neutral": 1920
+        },
+        {
+                "Angry": 24,
+                "Disgust": 0,
+                "Fear": 36,
+                "Happy": 1345,
+                "Sad": 126,
+                "Surprise": 187,
+                "Neutral": 962
+        },
+        {
+                "Angry": 21,
+                "Disgust": 3,
+                "Fear": 50,
+                "Happy": 1101,
+                "Sad": 123,
+                "Surprise": 125,
+                "Neutral": 905
+        },
+        {
+                "Angry": 4,
+                "Disgust": 2,
+                "Fear": 17,
+                "Happy": 977,
+                "Sad": 56,
+                "Surprise": 79,
+                "Neutral": 578
+        },
+        {
+                "Angry": 29,
+                "Disgust": 18,
+                "Fear": 137,
+                "Happy": 1396,
+                "Sad": 95,
+                "Surprise": 330,
+                "Neutral": 993
+        },
+        {
+                "Angry": 26,
+                "Disgust": 8,
+                "Fear": 120,
+                "Happy": 1304,
+                "Sad": 111,
+                "Surprise": 261,
+                "Neutral": 869
+        },
+        {
+                "Angry": 31,
+                "Disgust": 4,
+                "Fear": 56,
+                "Happy": 1319,
+                "Sad": 73,
+                "Surprise": 241,
+                "Neutral": 814
+        },
+        {
+                "Angry": 42,
+                "Disgust": 7,
+                "Fear": 174,
+                "Happy": 1479,
+                "Sad": 199,
+                "Surprise": 292,
+                "Neutral": 1247
+        },
+        {
+                "Angry": 17,
+                "Disgust": 6,
+                "Fear": 96,
+                "Happy": 1229,
+                "Sad": 77,
+                "Surprise": 176,
+                "Neutral": 637
+        },
+        {
+                "Angry": 17,
+                "Disgust": 6,
+                "Fear": 105,
+                "Happy": 1218,
+                "Sad": 160,
+                "Surprise": 220,
+                "Neutral": 1171
+        },
+        {
+                "Angry": 50,
+                "Disgust": 45,
+                "Fear": 176,
+                "Happy": 1957,
+                "Sad": 241,
+                "Surprise": 477,
+                "Neutral": 1560
+        },
+        {
+                "Angry": 36,
+                "Disgust": 11,
+                "Fear": 146,
+                "Happy": 1867,
+                "Sad": 142,
+                "Surprise": 329,
+                "Neutral": 1118
+        },
+        {
+                "Angry": 32,
+                "Disgust": 17,
+                "Fear": 147,
+                "Happy": 1844,
+                "Sad": 151,
+                "Surprise": 273,
+                "Neutral": 1021
+        },
+        {
+                "Angry": 39,
+                "Disgust": 16,
+                "Fear": 144,
+                "Happy": 1362,
+                "Sad": 156,
+                "Surprise": 248,
+                "Neutral": 955
+        },
+        {
+                "Angry": 28,
+                "Disgust": 58,
+                "Fear": 214,
+                "Happy": 1221,
+                "Sad": 237,
+                "Surprise": 455,
+                "Neutral": 848
+        },
+        {
+                "Angry": 22,
+                "Disgust": 39,
+                "Fear": 185,
+                "Happy": 1440,
+                "Sad": 164,
+                "Surprise": 383,
+                "Neutral": 746
+        },
+        {
+                "Angry": 20,
+                "Disgust": 8,
+                "Fear": 92,
+                "Happy": 1530,
+                "Sad": 86,
+                "Surprise": 125,
+                "Neutral": 804
+        },
+        {
+                "Angry": 37,
+                "Disgust": 51,
+                "Fear": 285,
+                "Happy": 1436,
+                "Sad": 234,
+                "Surprise": 610,
+                "Neutral": 1296
+        },
+        {
+                "Angry": 56,
+                "Disgust": 49,
+                "Fear": 373,
+                "Happy": 1499,
+                "Sad": 184,
+                "Surprise": 633,
+                "Neutral": 945
+        },
+        {
+                "Angry": 57,
+                "Disgust": 42,
+                "Fear": 237,
+                "Happy": 690,
+                "Sad": 176,
+                "Surprise": 511,
+                "Neutral": 968
+        },
+        {
+                "Angry": 43,
+                "Disgust": 14,
+                "Fear": 178,
+                "Happy": 704,
+                "Sad": 114,
+                "Surprise": 229,
+                "Neutral": 922
+        },
+        {
+                "Angry": 66,
+                "Disgust": 48,
+                "Fear": 158,
+                "Happy": 1145,
+                "Sad": 142,
+                "Surprise": 466,
+                "Neutral": 1042
+        },
+        {
+                "Angry": 39,
+                "Disgust": 34,
+                "Fear": 213,
+                "Happy": 1222,
+                "Sad": 222,
+                "Surprise": 366,
+                "Neutral": 986
+        },
+        {
+                "Angry": 18,
+                "Disgust": 44,
+                "Fear": 194,
+                "Happy": 1014,
+                "Sad": 156,
+                "Surprise": 585,
+                "Neutral": 1089
+        },
+        {
+                "Angry": 20,
+                "Disgust": 26,
+                "Fear": 173,
+                "Happy": 862,
+                "Sad": 127,
+                "Surprise": 364,
+                "Neutral": 838
+        },
+        {
+                "Angry": 120,
+                "Disgust": 89,
+                "Fear": 284,
+                "Happy": 1271,
+                "Sad": 250,
+                "Surprise": 532,
+                "Neutral": 950
+        },
+        {
+                "Angry": 25,
+                "Disgust": 15,
+                "Fear": 111,
+                "Happy": 920,
+                "Sad": 199,
+                "Surprise": 204,
+                "Neutral": 1144
+        },
+        {
+                "Angry": 11,
+                "Disgust": 38,
+                "Fear": 101,
+                "Happy": 680,
+                "Sad": 82,
+                "Surprise": 265,
+                "Neutral": 558
+        }
+    ]
+}

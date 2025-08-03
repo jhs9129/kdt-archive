@@ -1,0 +1,292 @@
+{
+    "data": [
+        {
+            "Total_Frame": 69280,
+            "Detection_Frame": 37314,
+            "Probability": 0.5385969976905312,
+            "No_Probability": 0.46140300230946885
+        },
+        {
+            "Total_Frame": 69971,
+            "Detection_Frame": 32692,
+            "Probability": 0.46722213488445213,
+            "No_Probability": 0.5327778651155479
+        },
+        {
+            "Total_Frame": 70061,
+            "Detection_Frame": 25761,
+            "Probability": 0.36769386677324045,
+            "No_Probability": 0.6323061332267595
+        },
+        {
+            "Total_Frame": 68874,
+            "Detection_Frame": 28597,
+            "Probability": 0.4152074803263931,
+            "No_Probability": 0.5847925196736069
+        },
+        {
+            "Total_Frame": 68958,
+            "Detection_Frame": 27718,
+            "Probability": 0.40195481307462516,
+            "No_Probability": 0.5980451869253749
+        },
+        {
+            "Total_Frame": 69657,
+            "Detection_Frame": 36204,
+            "Probability": 0.5197467591196865,
+            "No_Probability": 0.4802532408803135
+        },
+        {
+            "Total_Frame": 68917,
+            "Detection_Frame": 24730,
+            "Probability": 0.35883744214054586,
+            "No_Probability": 0.6411625578594542
+        },
+        {
+            "Total_Frame": 69152,
+            "Detection_Frame": 25714,
+            "Probability": 0.3718475242943082,
+            "No_Probability": 0.6281524757056918
+        },
+        {
+            "Total_Frame": 68583,
+            "Detection_Frame": 26267,
+            "Probability": 0.3829957861277576,
+            "No_Probability": 0.6170042138722425
+        },
+        {
+            "Total_Frame": 69514,
+            "Detection_Frame": 26345,
+            "Probability": 0.3789884052133383,
+            "No_Probability": 0.6210115947866617
+        },
+        {
+            "Total_Frame": 68771,
+            "Detection_Frame": 34803,
+            "Probability": 0.506070872897006,
+            "No_Probability": 0.49392912710299397
+        },
+        {
+            "Total_Frame": 68704,
+            "Detection_Frame": 25878,
+            "Probability": 0.3766592920353982,
+            "No_Probability": 0.6233407079646018
+        },
+        {
+            "Total_Frame": 69100,
+            "Detection_Frame": 26046,
+            "Probability": 0.37693198263386396,
+            "No_Probability": 0.623068017366136
+        },
+        {
+            "Total_Frame": 69183,
+            "Detection_Frame": 21858,
+            "Probability": 0.31594466848792335,
+            "No_Probability": 0.6840553315120766
+        },
+        {
+            "Total_Frame": 69790,
+            "Detection_Frame": 1148,
+            "Probability": 0.016449348044132398,
+            "No_Probability": 0.9835506519558675
+        },
+        {
+            "Total_Frame": 69642,
+            "Detection_Frame": 34685,
+            "Probability": 0.49804715545216965,
+            "No_Probability": 0.5019528445478303
+        },
+        {
+            "Total_Frame": 69719,
+            "Detection_Frame": 24372,
+            "Probability": 0.34957472138154594,
+            "No_Probability": 0.6504252786184541
+        },
+        {
+            "Total_Frame": 69903,
+            "Detection_Frame": 22971,
+            "Probability": 0.3286125059010343,
+            "No_Probability": 0.6713874940989657
+        },
+        {
+            "Total_Frame": 69259,
+            "Detection_Frame": 31213,
+            "Probability": 0.45067067095973085,
+            "No_Probability": 0.5493293290402692
+        },
+        {
+            "Total_Frame": 69625,
+            "Detection_Frame": 27444,
+            "Probability": 0.39416876122082584,
+            "No_Probability": 0.6058312387791742
+        },
+        {
+            "Total_Frame": 69789,
+            "Detection_Frame": 30961,
+            "Probability": 0.44363724942326155,
+            "No_Probability": 0.5563627505767385
+        },
+        {
+            "Total_Frame": 69181,
+            "Detection_Frame": 23461,
+            "Probability": 0.3391249042367124,
+            "No_Probability": 0.6608750957632876
+        },
+        {
+            "Total_Frame": 69514,
+            "Detection_Frame": 29942,
+            "Probability": 0.4307333774491469,
+            "No_Probability": 0.5692666225508531
+        },
+        {
+            "Total_Frame": 69278,
+            "Detection_Frame": 33138,
+            "Probability": 0.47833367014059297,
+            "No_Probability": 0.5216663298594071
+        },
+        {
+            "Total_Frame": 69140,
+            "Detection_Frame": 19056,
+            "Probability": 0.2756146948221001,
+            "No_Probability": 0.7243853051778999
+        },
+        {
+            "Total_Frame": 69320,
+            "Detection_Frame": 33573,
+            "Probability": 0.4843190998268898,
+            "No_Probability": 0.5156809001731102
+        },
+        {
+            "Total_Frame": 69193,
+            "Detection_Frame": 28602,
+            "Probability": 0.4133655138525573,
+            "No_Probability": 0.5866344861474426
+        },
+        {
+            "Total_Frame": 69069,
+            "Detection_Frame": 28315,
+            "Probability": 0.4099523664741056,
+            "No_Probability": 0.5900476335258944
+        },
+        {
+            "Total_Frame": 69508,
+            "Detection_Frame": 31974,
+            "Probability": 0.4600046037866145,
+            "No_Probability": 0.5399953962133854
+        },
+        {
+            "Total_Frame": 68565,
+            "Detection_Frame": 27222,
+            "Probability": 0.39702472106760006,
+            "No_Probability": 0.6029752789323999
+        },
+        {
+            "Total_Frame": 69433,
+            "Detection_Frame": 36492,
+            "Probability": 0.5255714141690551,
+            "No_Probability": 0.47442858583094494
+        },
+        {
+            "Total_Frame": 69014,
+            "Detection_Frame": 31522,
+            "Probability": 0.45674790622192596,
+            "No_Probability": 0.543252093778074
+        },
+        {
+            "Total_Frame": 69230,
+            "Detection_Frame": 29023,
+            "Probability": 0.41922576917521304,
+            "No_Probability": 0.580774230824787
+        },
+        {
+            "Total_Frame": 69298,
+            "Detection_Frame": 32617,
+            "Probability": 0.47067736442610175,
+            "No_Probability": 0.5293226355738982
+        },
+        {
+            "Total_Frame": 69628,
+            "Detection_Frame": 25515,
+            "Probability": 0.36644740621589017,
+            "No_Probability": 0.6335525937841098
+        },
+        {
+            "Total_Frame": 69801,
+            "Detection_Frame": 38370,
+            "Probability": 0.5497055916104354,
+            "No_Probability": 0.4502944083895646
+        },
+        {
+            "Total_Frame": 68194,
+            "Detection_Frame": 23016,
+            "Probability": 0.3375076986245124,
+            "No_Probability": 0.6624923013754875
+        },
+        {
+            "Total_Frame": 69732,
+            "Detection_Frame": 26558,
+            "Probability": 0.3808581426031091,
+            "No_Probability": 0.619141857396891
+        },
+        {
+            "Total_Frame": 68552,
+            "Detection_Frame": 40140,
+            "Probability": 0.5855409032559226,
+            "No_Probability": 0.41445909674407744
+        },
+        {
+            "Total_Frame": 70689,
+            "Detection_Frame": 25022,
+            "Probability": 0.35397303682326814,
+            "No_Probability": 0.6460269631767319
+        },
+        {
+            "Total_Frame": 70032,
+            "Detection_Frame": 32814,
+            "Probability": 0.46855723098012336,
+            "No_Probability": 0.5314427690198766
+        },
+        {
+            "Total_Frame": 69069,
+            "Detection_Frame": 26406,
+            "Probability": 0.38231333883507795,
+            "No_Probability": 0.6176866611649221
+        },
+        {
+            "Total_Frame": 68412,
+            "Detection_Frame": 30466,
+            "Probability": 0.44533122843945505,
+            "No_Probability": 0.554668771560545
+        },
+        {
+            "Total_Frame": 69584,
+            "Detection_Frame": 33595,
+            "Probability": 0.4827977696022074,
+            "No_Probability": 0.5172022303977926
+        },
+        {
+            "Total_Frame": 69581,
+            "Detection_Frame": 32029,
+            "Probability": 0.46031244161480867,
+            "No_Probability": 0.5396875583851913
+        },
+        {
+            "Total_Frame": 69272,
+            "Detection_Frame": 22057,
+            "Probability": 0.3184114793856104,
+            "No_Probability": 0.6815885206143897
+        },
+        {
+            "Total_Frame": 70020,
+            "Detection_Frame": 33328,
+            "Probability": 0.47597829191659524,
+            "No_Probability": 0.5240217080834048
+        },
+        {
+            "Total_Frame": 68737,
+            "Detection_Frame": 29309,
+            "Probability": 0.42639335437973724,
+            "No_Probability": 0.5736066456202628
+        }
+    ]
+}
